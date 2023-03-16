@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "outDir": "./out",
+    "rootDir": "./",
+    "target": "ES2019",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noImplicitAny": false,
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "noStrictGenericChecks": true,
+    "skipLibCheck": true,
+    "sourceMap": true
+  },
+  "include": ["./src"],
+  "exclude": ["**/node_modules/*"]
+}
