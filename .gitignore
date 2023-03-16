@@ -1,0 +1,10 @@
+.idea
+log
+node_modules
+package-lock.json
+.vscode
+_deploy
+./src/config
+./models
+./src/modules
+./src/controllers/testControllers
